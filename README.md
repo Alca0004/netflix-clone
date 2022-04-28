@@ -1,3 +1,5 @@
+This is a basic Netflix clone that mocks the UI of the main explore page, while learning the basics of HTML, CSS, and JavaScript
+
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/05306f70-9e79-4a82-8095-6cbed03100f7/deploy-status)](https://affectionate-clarke-5cd4de.netlify.app)
 
@@ -6,14 +8,9 @@
 
 ![ezgif-4-2f3a4e364d](https://user-images.githubusercontent.com/84670853/165857358-32a41821-16ff-4336-8698-88bc49278630.gif)
 
-
-This is a basic Netflix clone that mocks the UI of the main explore page.
-
 <h2 dir="auto"><a id="user-content-technologies" class="anchor" aria-hidden="true" href="#technologies"><svg class="octicon octicon-link" width="16" height="16" aria-hidden="true"></svg></a>Technologies</h2>
  
-
 https://reactjs.org
-
 
 <h2 dir="auto"><a id="user-content-start-project" class="anchor" aria-hidden="true" href="#start-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Start project</h2>
 
