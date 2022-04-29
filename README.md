@@ -31,7 +31,7 @@ This is a basic Netflix clone that mocks the UI of the main explore page, while 
 <pre><span class="pl-c"><span class="pl-c">#</span> Clone the repository</span>
 $ git clone https://github.com/Alca0004/netflix-clone
 
-<span class="pl-c"><span class="pl-c">#</span> Access the netflix-clone-reactjs folder</span>
+<span class="pl-c"><span class="pl-c">#</span> Access the netflix-clone folder</span>
 $ <span class="pl-c1">cd</span> netflix-clone
 
 <span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
