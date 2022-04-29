@@ -1,3 +1,5 @@
+<h1 dir="auto"><a id="user-content-netflix-clone" class="anchor" aria-hidden="true" href="#netflix-clone"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Netflix Clone</h1>
+
 This is a basic Netflix clone that mocks the UI of the main explore page, while learning the basics of HTML, CSS, and JavaScript.
 
 
