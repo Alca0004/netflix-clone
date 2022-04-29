@@ -1,6 +1,6 @@
 # Netflix clone
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/05306f70-9e79-4a82-8095-6cbed03100f7/deploy-status)](https://app.netlify.com/sites/affectionate-clarke-5cd4de/deploys)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Alca0004/netflix-clone)
 
 This is a basic Netflix clone that mocks the UI of the main explore page.
 
