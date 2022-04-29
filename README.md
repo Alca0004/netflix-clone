@@ -6,7 +6,8 @@ This is a basic Netflix clone that mocks the UI of the main explore page, while 
 
 <h2 dir="auto"><a id="user-content-videodemo" class="anchor" aria-hidden="true" href="#videodemo"><svg class="octicon octicon-link" width="16" height="16" aria-hidden="true"></svg></a>Video Demo</h2>
 
-![ezgif-4-2f3a4e364d](https://user-images.githubusercontent.com/84670853/165857358-32a41821-16ff-4336-8698-88bc49278630.gif)
+![Hnet-image](https://user-images.githubusercontent.com/84670853/165969059-6732a92f-96ce-4143-83af-855fa3373b86.gif)
+
 
 <h2 dir="auto"><a id="user-content-technologies" class="anchor" aria-hidden="true" href="#technologies"><svg class="octicon octicon-link" width="16" height="16" aria-hidden="true"></svg></a>Technologies</h2>
  
